@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flickr Api</string>
+    <string name="networkUnavailable">Network is not available</string>
+</resources>
